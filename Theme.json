@@ -1,6 +1,6 @@
 {
     "name": "Purple World",
-    "description": "Updated theme with small changes to the background",
+    "description": "small adjustements to an existent theme",
     "authors": [
        
         {
@@ -133,12 +133,10 @@
         "customOverlays": true,
         "iconpack":"rosiecord-plumpy"
     },
-    "spec": 2
-  "background": {
+    "spec": 2,
+"background": {
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
         "alpha": 0.5,
         "color": "#081924"
     }
-}
-
 }
